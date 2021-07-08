@@ -1,5 +1,5 @@
 - 👋 Hi, I’m `@TheEpiCreator`
-- 👀 I’m interested in creating fun apps
+- 👀 I’m interested in creating interesting apps
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on open-source libraries and Discord bots
 - 📫 Reach me at epcrmail@gmail.com
